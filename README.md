@@ -7,26 +7,20 @@ Kagi Alfred Workflow
 2. Open the workflow in Alfred
 3. Launch the Alfred window and type one of the commands below:
 
-Kagi Search:
+- Kagi Search:
+`k keyword`
 
-k keyword
+- Kagi Image Search:
+`ki keyword`
 
-Kagi Image Search:
+- Kagi Videos Search:
+`kv keyword`
 
-ki keyword
+- Kagi News Search:
+`kn keyword`
 
-Kagi Videos Search:
+- Kagi Podcast Search:
+`kp keyword`
 
-kv keyword
-
-kagi News Search:
-
-kn keyword
-
-Kagi Podcast Search:
-
-kp keyword
-
-Kagi Maps:
-
-km keyword
+- Kagi Maps:
+`km keyword`
